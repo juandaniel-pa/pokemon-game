@@ -24,4 +24,4 @@ npm run test:unit
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### Link of the deploy site
-View Wenbsite [Pokemon Game](https://cli.vuejs.org/config/](https://pokemongamevue-jd.netlify.app/).
+View Website [Pokemon Game](https://pokemongamevue-jd.netlify.app/).
